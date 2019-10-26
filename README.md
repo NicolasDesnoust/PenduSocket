@@ -1,5 +1,6 @@
 PenduSocket.
 Ce dépôt contient trois packages dans lequels il est possible d'expérimenter différentes versions du jeu du Pendu orienté client/serveur.
+Les versions ont été codées en Java et utilisent le protocole TCP.
 
 Package clientUnique:
 Dans cette version, un seul client peut jouer à la fois sur le serveur. Le serveur peut faire jouer un nombre de clients limité.
